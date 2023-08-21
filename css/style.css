@@ -102,5 +102,24 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
-color: #2E2F42;
- }
+text-transform: capitalize;
+background-color:#F4F4FD;
+}
+.text-name{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+.paragraf-prof{
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color:#434455;
+}
