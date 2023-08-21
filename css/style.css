@@ -1,5 +1,5 @@
 .link {
-    text-decoration: none;
+     text-decoration: none;
 }
 .list {
 list-style-type: none;
@@ -34,15 +34,23 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
 }
-.address{
+.menu-link:hover,
+.menu-link:focus {
+color: #404BBF;
+}
+.text-address{
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 0.66;
+line-height: 1.5;
 letter-spacing: 0.02em;
 font-style:normal;
 text-align: left;
 color:#434455;
+}
+.text-address:hover,
+.text-address:focus{
+color:#404BBF;
 }
 .text-maine{
 font-family: Roboto;
@@ -52,20 +60,17 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color:#FFFFFF;
-background: #2E2F42;
+background-color: #2E2F42;
 }
 button{
 background: #4D5AE5;
 }
-.menu-link:hover,
-.menu-link:focus{
-color: #404BBF;
-}
+
 .text-button{
 font-family: "Roboto",sans-serif; 
 font-size: 16px;
 font-weight: 500;
-line-height: 1.05;
+line-height: 1.5;
 letter-spacing: 0.04em;
 text-align: left;
 color: #FFFFFF;
