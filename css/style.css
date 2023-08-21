@@ -16,20 +16,20 @@ cursor: pointer;
 font-family:'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1,17;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-align: left;
 text-transform: uppercase ;
 color: #4d5ae5
 }
-.span{
+.color{
     color:#2e2f42; 
 }
 .menu-link{
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 500;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
@@ -38,7 +38,7 @@ color: #2E2F42;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
-line-height: 0,66;
+line-height: 0.66;
 letter-spacing: 0.02em;
 text-align: left;
 color:#434455;
@@ -47,7 +47,7 @@ h1{
 font-family: Roboto;
 font-size: 56px;
 font-weight: 700;
-line-height: 0,93;
+line-height: 0.93;
 letter-spacing: 0.02em;
 text-align: center;
 color:#FFFFFF;
@@ -64,7 +64,7 @@ color: #404BBF;
 font-family: Roboto;
 font-size: 16px;
 font-weight: 500;
-line-height: 0,66;
+line-height: 0.66;
 letter-spacing: 0.04em;
 text-align: left;
 color: #FFFFFF;
@@ -73,7 +73,7 @@ h3{
 font-family: Roboto;
 font-size: 20px;
 font-weight: 500;
-line-height: 0,83;
+line-height: 0.83;
 letter-spacing: 0.02em;
 text-align: left;
 color:#2E2F42;
@@ -82,7 +82,7 @@ color:#2E2F42;
 font-family: Roboto;
 font-size: 36px;
 font-weight: 700;
-line-height: 1,11;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
