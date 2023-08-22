@@ -113,8 +113,7 @@ background-color: #F4F4FD;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2E2F42;
-    background-color: #FFFFFF;
+    color: #2E2F42;   
 }
 .paragraf-prof{
         font-family: Roboto;
@@ -124,5 +123,7 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-align: center;
         color:#434455;
-        background-color: #FFFFFF;
+}
+.color-team{
+background-color: #FFFFFF;
 }
