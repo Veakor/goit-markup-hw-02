@@ -127,3 +127,18 @@ background-color: #F4F4FD;
 .color-team{
 background-color: #FFFFFF;
 }
+.background-foot{
+    background-color: #2e2f42;
+}
+.paragraf-foot{
+    font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #F4F4FD
+}
+.color-text-foot{
+    color: #F4F4FD;
+}
